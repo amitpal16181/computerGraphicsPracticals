@@ -1,0 +1,2 @@
+# computerGraphicsPracticals
+Computer Graphics University Practicals Repository
